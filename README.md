@@ -5,7 +5,7 @@ In this project, we build an ETL (Extract, Transform, Load) pipeline using the S
 
 
 ## Architecture :
-! [Architecture Diagram) (https://github.com/darshilparmar/spotify-end-to-end-data-engineering-project/blob/main/Spotify_Data_Pipeline.jpg)
+!(Architecture Diagram) (https://github.com/darshilparmar/spotify-end-to-end-data-engineering-project/blob/main/Spotify_Data_Pipeline.jpg)
 
 ## Services Used
 
@@ -24,5 +24,5 @@ In this project, we build an ETL (Extract, Transform, Load) pipeline using the S
 ## AWS Glue Data Catalog:
 ### The Glue Data Catalog is a centralized metadata repository that simplifies data discovery and management. It integrates seamlessly with services like Amazon Athena for data querying.
 
-##A mazon Athena:
+## Amazon Athena:
 ### Athena is a serverless query service that uses standard SQL to analyze data stored in S3. It integrates with the Glue Data Catalog for efficient querying and analysis.
