@@ -3,7 +3,7 @@ ETL pipeline using AWS: Extracts data from Spotify API with AWS Lambda, stores r
 ## Introduction :
 In this project, we build an ETL (Extract, Transform, Load) pipeline using the Spotify API on AWS. The pipeline extracts data from the Spotify API, transforms it into the required format, and stores it in an AWS data store for analysis.
 
-
+![Pipeline](https://datavidhya-static-content.s3.ap-south-1.amazonaws.com/architecture/DataVidhya+Projects+(1)_page-0001.jpg)
 ## Services Used
 
 ## S3 (Simple Storage Service):
